@@ -1,22 +1,26 @@
-.color-title {
-  font-weight: normal;
+body {
+  background-color: black;
 }
-img {
-  width: 200px;
-  height: 200px;
+h1 {
+  text-transform: uppercase;
+  font-size: 3rem;
 }
-#red {
-  color: red;
+p {
+  text-transform: uppercase;
+  font-size: smaller;
 }
-#blue {
-  color: blue;
+.poster {
+  text-align: center;
+  font-family: "Libre Baskerville", sans-serif;
+  color: aqua;
+  width: 50%;
+  margin-left: 25%;
+  margin-top: -10px;
+  margin-bottom: 100px;
 }
-#orange {
-  color: orange;
-}
-#green {
-  color: green;
-}
-#yellow {
-  color: yellow;
+
+.img {
+  height: 100%;
+  width: 100%;
+  border: 5px solid;
 }
